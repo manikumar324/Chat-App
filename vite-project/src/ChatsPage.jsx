@@ -1,4 +1,4 @@
-import {PrettyChatWindow} from "react-chat-engine-pretty"
+import {PrettyChatWindow} from "react-chat-engine-pretty";
 
 const ChatsPage = (props) => {
     
@@ -16,4 +16,4 @@ const ChatsPage = (props) => {
   )
 }
 
-export default ChatsPage
+export default ChatsPage;

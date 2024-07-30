@@ -1,3 +1,5 @@
+//THIS IS THE FRONTEND CODE
+
 import { useState } from "react";
 
 import "./App.css";
