@@ -87,7 +87,7 @@ body {
   background: rgb(43, 47, 60);
 }
 
-@media (max-width:768px) {
+@media (max-width:520px) {
   body {
     background-image: url('./assets/chat1.png');
     background-repeat: no-repeat;
